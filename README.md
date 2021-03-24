@@ -6,18 +6,24 @@
 <img src="imgs/../img/img2.png">
 <img src="imgs/../img/img3.png">
 <img src="imgs/../img/img4.png">
+
 ***
+
 - json
 "connect Timeout":30000,
 ctrl S
+
 ***
+
 - terminal
 ssh bs109~~~@210.70.80.21
 [bs109~~~@localhost~]$ll
 [bs109~~~@localhost~]$cd public_html/
 [bs109~~~@localhost~]$ll
 tatal >0 -->success
+
 ***
+
 {
     "name": "My Server",
     "host": "210.70.80.21",
